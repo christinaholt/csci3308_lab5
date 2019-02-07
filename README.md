@@ -1,1 +1,2 @@
-# csci3308_lab5
+Lab 5: Version Control
+Christina Holt
