@@ -1,3 +1,10 @@
+Christina Holt
+Partner: Lauren Deans
+
+The difference between the README at the merge commit and the one before, along with the log entry for the merge:
+
+
+
 (csci3022) Christina-Holts-Computer:csci3308_lab5 christinaholt$ git diff 49dceb1 b8ef7de
 diff --git a/README.md b/README.md
 index 0fd11eb..46dfa69 100644
