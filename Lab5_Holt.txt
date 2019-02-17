@@ -1,9 +1,12 @@
-Christina Holt
-Partner: Lauren Deans
+Christina Holt (GitHub: christinaholt)
+Partner: Lauren Deans (GitHub: laurenedeans)
+--------------------------------------------
+Note: I need to leave my Git default Author set to my work email since I use my work laptop to complete assignments.
+
+
 
 The difference between the README at the merge commit and the one before, along with the log entry for the merge:
-
-
+-----------------------------------------------------------------------------------------------------------------
 
 (csci3022) Christina-Holts-Computer:csci3308_lab5 christinaholt$ git diff 49dceb1 b8ef7de
 diff --git a/README.md b/README.md
@@ -22,3 +25,4 @@ Author: christinaholt <christina.holt@spire.com>
 Date:   Thu Feb 7 22:45:05 2019 -0700
 
     Merge branch 'master' of https://github.com/christinaholt/csci3308_lab5
+-----------------------------------------------------------------------------------------------------------------
